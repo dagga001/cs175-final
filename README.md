@@ -22,6 +22,9 @@ How to run:
 4. run "python manage.py runserver"
 5. open localhost:8000 on browser
 
+Back-end how to run:
+1. python yelp.py
+
 
 
 
