@@ -23,14 +23,11 @@ How to run:
 5. open localhost:8000 on browser
 
 
+
+
+Project Description:
+
 To develop the Quest web application we needed to build a front-end interface that users could interact with as well as a backend web crawler that scrapes information from yelp. To do this we utilized Django web framework. Our group divided the work by splitting into front-end and back-end teams. Daniel Na and Justin Le led the front-end team while Devang Aggrawal, Usman Ahmed, and Luis Chelala developed the back-end program. 
-
-
-
-
-
-
-
 
 
 Front-end: 
